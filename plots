@@ -4,3 +4,8 @@ Step 1: Look for outliers and sudden shifts
 Step 2: Look for trends
 Step 3: Look for seasonal patterns or cyclic movements
 Step 4: Assess whether seasonal changes are additive or multiplicative
+Additive changes
+In this example of additive seasonal changes, the data values tend to increase over time, but the magnitude of the seasonal change remains the same.
+Multiplicative changes
+In this example of multiplicative seasonal changes, the magnitude of the seasonal change increases over time as the data values increase.
+
